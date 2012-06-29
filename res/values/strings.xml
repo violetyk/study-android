@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloAndroid</string>
+
+    
+    <string-array name="activities">
+        <item>ボタンクリックイベント</item>
+        <item>レイアウトファイルを使わない</item>
+    </string-array>
+</resources>

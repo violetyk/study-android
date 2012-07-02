@@ -3,7 +3,10 @@
 
     <string name="app_name">HelloAndroid</string>
 
-    
+   	<string name="menu1">メニュー1</string> 
+   	<string name="menu2">メニュー2</string> 
+   	<string name="menu3">メニュー3</string> 
+   	
     <string-array name="activities">
         <item>ボタンクリックイベント</item>
         <item>レイアウトファイルを使わない</item>
